@@ -5,7 +5,7 @@
 Before running the script, ensure you meet these requirements:
 
 ### System Requirements
-- Windows 10, Windows 11, or Windows Server
+- Windows 11, or Windows Server
 - At least 2GB free disk space
 - Stable internet connection (for DISM RestoreHealth)
 - Administrator privileges
@@ -249,4 +249,5 @@ This script is safe because:
 - Makes no direct system file modifications
 - Includes comprehensive error checking
 - Can be safely interrupted if needed
+
 - Is reversible (system restore point recommended before running)
